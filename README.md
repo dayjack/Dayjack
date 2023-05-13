@@ -20,6 +20,10 @@
   Apple Developer Academy @ POSTECH 2기 러너
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<h2>
+  WWDC23 Swift Student Challendge Winner
+  <img src="https://media.giphy.com/media/2gtoSIzdrSMFO/giphy.gif?cid=ecf05e47wk3iac7e7djaulxnjogeahp3pyw52ucdq5bk8mw5&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"/>
+</h2>
 
 <p>
 Hello, this is Eugene!<br>
